@@ -1,0 +1,57 @@
+.red {
+    font-size: 50px;
+    color: crimson
+}
+
+.font {
+    font-style: italic;
+    font-size: large;
+    font-family: "Bookman Old Style";
+
+}
+
+.picture {
+    color: aqua;
+    font-style: oblique;
+    font-size: 35px;
+    font-family: Dubai;
+}
+
+.image {
+    size: auto;
+}
+
+.header {
+    font-size: 65px;
+    font-family: bold;
+    font-family: DejaVu Sans Mono, monospace;
+    color: yellow;
+    padding-bottom: 17px;
+}
+
+.footer {
+    color: yellow;
+}
+
+
+.player {
+    font-family: Impact, fantasy;
+    font-size: 25px;
+
+}
+
+.icon {
+
+
+}
+
+body {
+    background-image: url("https://s1.1zoom.me/b5050/46/World_of_WarCraft_506448_1920x1080.jpg");
+}
+
+.top {
+    min-width: 163;
+    min-height: 126;
+    max-height: 163px;
+    max-width: 163px;
+}
