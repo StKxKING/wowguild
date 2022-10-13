@@ -64,3 +64,9 @@
 
 
 
+![Gellynda](https://user-images.githubusercontent.com/115694503/195552810-e2728118-91cc-498b-889f-de9f2eef0a23.png)
+![gellynda_t](https://user-images.githubusercontent.com/115694503/195552818-980c1bed-94f7-4279-a900-049f6903104d.png)
+![jimon](https://user-images.githubusercontent.com/115694503/195552822-eec36419-82f9-41b8-a4f5-e13915f9c997.png)
+![jimon_t](https://user-images.githubusercontent.com/115694503/195552826-c4825145-4f79-464f-928b-92926a22b2c1.png)
+![king t](https://user-images.githubusercontent.com/115694503/195552830-ffc9fd9d-5bfc-4ef3-960d-0f4c02c51f89.png)
+![king](https://user-images.githubusercontent.com/115694503/195552837-9fd88e1d-863b-4635-ad5a-6704ec0f315d.png)
